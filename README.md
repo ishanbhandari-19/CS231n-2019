@@ -33,9 +33,9 @@ My solutions to assignments of [CS231n: Convolutional Neural Networks for Visual
 	* [Notebook](./assignment3/RNN_Captioning.ipynb)
 * Image Captioning with LSTMs
 	* [Notebook](./assignment3/LSTM_Captioning.ipynb), [rnn_layers](./assignment3/cs231n/rnn_layers.py), [rnn](./assignment3/cs231n/classifiers/rnn.py)
- * Genral Adversarial Networks - PyTorch
-        * [Notebook](.assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
- * Network Visualisation - PyTorch
-        * [Notebook](.assignment3/NetworkVisualization-PyTorch.ipynb)
- * Style Tranfer - PyTorch
-        * [Notebook](.assignment3/StyleTransfer-PyTorch.ipynb)
+* General Adversarial Networks-PyTorch
+	* [Notebook](./assignment3/Generative_Adversarial_Networks_PyTorch.ipynb)
+ * Network Visualisation-PyTorch
+	* [Notebook](./assignment3/NetworkVisualization-PyTorch.ipynb)
+ * Style Transfer-PyTorch
+	* [Notebook](./assignment3/StyleTransfer-PyTorch.ipynb)
